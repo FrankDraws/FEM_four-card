@@ -17,6 +17,7 @@ body, html {
 
 body {
     background-color: gainsboro;
+    font-family: 'Poppins', sans-serif;
 }
 
 .container {
@@ -78,6 +79,7 @@ body {
 
 footer {
     width: 100%;
-    background-color: #f9f9f9;
-    /* display: none; */
+    /* background-color: #f9f9f9; */
+    display: flex;
+    justify-content: center;
 }
